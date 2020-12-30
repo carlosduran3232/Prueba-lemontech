@@ -1,3 +1,5 @@
+## Instalation
+
 ```bash
 npm i
 ```
